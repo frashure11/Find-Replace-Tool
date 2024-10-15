@@ -89,7 +89,7 @@ namespace Find_Replace_GUI
                 {
                         Process.Start(new ProcessStartInfo
                         {
-                                FileName = "https://github.com/frashure11",
+                                FileName = "https://github.com/frashure11/Find-Replace-Tool",
                                 UseShellExecute = true
                         });
                 }
