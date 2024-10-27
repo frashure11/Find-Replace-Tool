@@ -1,6 +1,6 @@
 <img src="Find_Replace_GUI/git_ad01.png" width="327">
 
-## Find/Replace Tool
+## Find/Replace Filename Tool
 About:
 * This program is designed to give a simple, easy, and fast method of mass file renaming when you need to replace or add to text in a filename
 * Quick Search & Replace: Effortlessly find and replace text within file names. Perfect for batch renaming multiple files in seconds.
